@@ -1,0 +1,13 @@
+$tablet: "(min-width: 768px) and (max-width: 1023px)";
+$mobile: "(min-width: 320px) and (max-width: 480px)";
+
+/*Mobile*/
+
+@media #{$mobile}{
+    
+}
+
+/*Tablet*/
+@media #{$tablet}{
+
+}
